@@ -18,6 +18,7 @@ during a challenge, with links to deeper material where it helps.
 - [SQL injection cheatsheet](web/sql-injection-cheatsheet.md)
 - [XSS cheatsheet](web/xss-cheatsheet.md)
 - [OWASP Top 10 quick reference](web/owasp-top-10-quick-reference.md)
+- [SSRF cheatsheet](web/ssrf-cheatsheet.md)
 
 ### Network
 - [Nmap cheatsheet](network/nmap-cheatsheet.md)
